@@ -9,19 +9,18 @@
 
 **Domain Chosen:** Library Management System
 
-**Entities Identified**: Authors, Categories, Books, Members, Borrow
+**Entities Identified**: 
 
-Created Tables using CREATE TABLE with Primary Keys & Foreign Keys
-
-Ensured Normalization (removed redundancy)
-
-Designed an ER Diagram to represent relationships
+1.Authors, Categories, Books, Members, Borrow
+2.Created Tables using CREATE TABLE with Primary Keys & Foreign Keys
+3.Ensured Normalization (removed redundancy)
+4.Designed an ER Diagram to represent relationships
 
 **Files in Repo**
 
-1.schema.sql → SQL script to create the schema
-2.assets/er_diagram.png → ER diagram of the database
-3.README.md → Documentation of the task
+1.SQL-TASK-1.sql : SQL script to create the schema
+2.task 1.png : ER diagram of the database
+3.README.md : Documentation of the task
 
 **Key Concepts Covered**
 
